@@ -26,7 +26,7 @@
 </p>
 <p align="center">
     <strong>
-        CENG 407
+        CENG 408
         <br/>
     </strong>
     Innovative System Design and Development I<strong></strong>
