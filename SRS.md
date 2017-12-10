@@ -16,7 +16,7 @@
 		<img
 			width="146"
 			height="145"
-			src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif"
+			src="http://i63.tinypic.com/1079pit.png"
 		/>
 	</strong>
 	<strong></strong>
@@ -26,7 +26,7 @@
 </p>
 <p align="center">
 	<strong>
-		CENG 407
+		CENG 408
 		<br/>
 	</strong>
 	<strong>Innovative System Design and Development I</strong>
