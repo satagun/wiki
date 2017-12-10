@@ -714,7 +714,7 @@ password&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#
 	<img
 		width="356"
 		height="320"
-		src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg"
+		src="http://i67.tinypic.com/11j0pia.jpg"
 	/>
 </p>
 <p align="center">
@@ -725,7 +725,7 @@ password&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#
 	<img
 		width="462"
 		height="335"
-		src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg"
+		src="http://i66.tinypic.com/2nhe3yb.png"
 	/>
 </p>
 <p align="center">
@@ -736,7 +736,7 @@ password&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#
 	<img
 		width="381"
 		height="300"
-		src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg"
+		src="http://i67.tinypic.com/2py6uf5.png"
 	/>
 </p>
 <p align="center">
@@ -747,7 +747,7 @@ password&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#
 	<img
 		width="364"
 		height="372"
-		src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg"
+		src="http://i66.tinypic.com/rarw5k.png"
 	/>
 </p>
 <p align="center">
@@ -758,7 +758,7 @@ password&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#
 	<img
 		width="353"
 		height="286"
-		src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg"
+		src="http://i67.tinypic.com/sl70ut.png"
 	/>
 </p>
 <p align="center">
@@ -769,7 +769,7 @@ password&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#
 	<img
 		width="355"
 		height="277"
-		src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image014.jpg"
+		src="http://i64.tinypic.com/ma9wzq.png"
 	/>
 </p>
 <p align="center">
@@ -780,7 +780,7 @@ password&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#
 	<img
 		width="387"
 		height="320"
-		src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image016.jpg"
+		src="http://i65.tinypic.com/xmo7yr.png"
 	/>
 </p>
 <p align="center">
@@ -791,7 +791,7 @@ password&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#
 	<img
 		width="406"
 		height="323"
-		src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg"
+		src="http://i64.tinypic.com/k13mee.png"
 	/>
 </p>
 <p align="center">
@@ -802,7 +802,7 @@ password&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#
 	<img
 		width="375"
 		height="265"
-		src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image020.jpg"
+		src="http://i68.tinypic.com/208jre1.png"
 	/>
 </p>
 <p align="center">
@@ -2229,7 +2229,7 @@ After choosing the project, click to reporting button.					<strong></strong>
 	<img
 		width="410"
 		height="269"
-		src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image022.jpg"
+		src="http://i68.tinypic.com/2nis4dc.jpg"
 	/>
 </p>
 <p>
