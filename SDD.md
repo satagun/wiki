@@ -3825,7 +3825,7 @@ Select member’s reward                                            <strong></st
         <img
             width="413"
             height="140"
-            src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image015.png"
+            src="http://i64.tinypic.com/2d14jyg.png"
         />
     </strong>
     <strong></strong>
@@ -3847,7 +3847,7 @@ Select member’s reward                                            <strong></st
     <img
         width="493"
         height="158"
-        src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image017.jpg"
+        src="http://i65.tinypic.com/24mxp53.png"
     />
 </p>
 <p>
@@ -3870,7 +3870,7 @@ Select member’s reward                                            <strong></st
         <img
             width="427"
             height="121"
-            src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image018.png"
+            src="http://i65.tinypic.com/1iebgo.png"
         />
     </strong>
     <strong></strong>
@@ -4083,7 +4083,7 @@ Select member’s reward                                            <strong></st
         <img
             width="433"
             height="151"
-            src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image019.png"
+            src="http://i63.tinypic.com/1rvj4o.png"
         />
     </strong>
 </p>
@@ -4201,7 +4201,7 @@ Select member’s reward                                            <strong></st
         <img
             width="478"
             height="140"
-            src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image020.png"
+            src="http://i66.tinypic.com/auibns.png"
         />
     </strong>
 </p>
@@ -4240,7 +4240,7 @@ Select member’s reward                                            <strong></st
     <img
         width="604"
         height="345"
-        src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image022.jpg"
+        src="http://i67.tinypic.com/2cnhvg5.png"
     />
 </p>
 <p>
@@ -4254,7 +4254,7 @@ Select member’s reward                                            <strong></st
     <img
         width="604"
         height="270"
-        src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image024.jpg"
+        src="http://i67.tinypic.com/hu248z.png"
     />
 </p>
 <p>
@@ -4266,7 +4266,7 @@ Select member’s reward                                            <strong></st
         <img
             width="604"
             height="267"
-            src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image026.jpg"
+            src="http://i66.tinypic.com/21eau7b.png"
         />
     </strong>
 </p>
@@ -4288,7 +4288,7 @@ Select member’s reward                                            <strong></st
         <img
             width="604"
             height="299"
-            src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image028.jpg"
+            src="http://i66.tinypic.com/mua3oo.png"
         />
     </strong>
     <strong></strong>
@@ -4305,7 +4305,7 @@ Select member’s reward                                            <strong></st
         <img
             width="604"
             height="419"
-            src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image030.jpg"
+            src="http://i65.tinypic.com/242zkv5.png"
         />
     </strong>
     <strong></strong>
@@ -4318,7 +4318,7 @@ Select member’s reward                                            <strong></st
     <img
         width="604"
         height="267"
-        src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image031.jpg"
+        src="http://i66.tinypic.com/21eau7b.jpg"
     />
 </p>
 <p>
@@ -4360,7 +4360,7 @@ Select member’s reward                                            <strong></st
     <img
         width="603"
         height="356"
-        src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image033.jpg"
+        src="http://i65.tinypic.com/wjb28l.png"
     />
     <strong></strong>
 </p>
@@ -4375,7 +4375,7 @@ Select member’s reward                                            <strong></st
     <img
         width="604"
         height="388"
-        src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image035.jpg"
+        src="http://i64.tinypic.com/i5vvvt.png"
     />
 </p>
 <p>
@@ -4387,7 +4387,7 @@ Select member’s reward                                            <strong></st
         <img
             width="602"
             height="295"
-            src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image037.jpg"
+            src="http://i63.tinypic.com/2usc089.png"
         />
     </strong>
 </p>
@@ -4400,7 +4400,7 @@ Select member’s reward                                            <strong></st
         <img
             width="605"
             height="439"
-            src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image039.jpg"
+            src="http://i63.tinypic.com/el1ou9.png"
         />
     </strong>
 </p>
@@ -4413,7 +4413,7 @@ Select member’s reward                                            <strong></st
         <img
             width="605"
             height="365"
-            src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image041.jpg"
+            src="http://i65.tinypic.com/w88eg7.png"
         />
     </strong>
 </p>
@@ -4432,7 +4432,7 @@ Select member’s reward                                            <strong></st
     <img
         width="605"
         height="190"
-        src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image043.jpg"
+        src="http://i66.tinypic.com/2j3qgqt.png"
     />
 </p>
 <p>
@@ -4443,7 +4443,7 @@ Select member’s reward                                            <strong></st
     <img
         width="605"
         height="170"
-        src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image045.jpg"
+        src="http://i66.tinypic.com/24mhvr9.png"
     />
 </p>
 <p>
@@ -4454,7 +4454,7 @@ Select member’s reward                                            <strong></st
     <img
         width="603"
         height="147"
-        src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image046.png"
+        src="http://i66.tinypic.com/a5b7fa.png"
     />
 </p>
 <p>
@@ -4465,7 +4465,7 @@ Select member’s reward                                            <strong></st
     <img
         width="606"
         height="111"
-        src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image047.png"
+        src="http://i65.tinypic.com/2ljjrkk.png"
     />
 </p>
 <p>
@@ -4476,7 +4476,7 @@ Select member’s reward                                            <strong></st
     <img
         width="604"
         height="155"
-        src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image049.jpg"
+        src="http://i64.tinypic.com/27yrinq.png"
     />
 </p>
 <p>
@@ -4488,7 +4488,7 @@ Select member’s reward                                            <strong></st
         <img
             width="603"
             height="57"
-            src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image051.jpg"
+            src="http://i63.tinypic.com/1izvo8.png"
         />
     </strong>
 </p>
@@ -4500,7 +4500,7 @@ Select member’s reward                                            <strong></st
     <img
         width="604"
         height="92"
-        src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image052.png"
+        src="http://i66.tinypic.com/29lcyu8.png"
     />
 </p>
 <p>
