@@ -609,7 +609,7 @@
     <img
         width="605"
         height="422"
-        src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg"
+        src="http://i65.tinypic.com/rk7tj8.jpg"
     />
 </p>
 <p>
@@ -746,7 +746,7 @@
         <img
             width="507"
             height="319"
-            src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image005.jpg"
+            src="http://i67.tinypic.com/5b1t2w.jpg"
         />
     </strong>
     <strong></strong>
@@ -1006,7 +1006,7 @@ Project Manager Assignment                                            <strong></
         <img
             width="396"
             height="240"
-            src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png"
+            src="http://i68.tinypic.com/2ai0xlt.png"
         />
     </strong>
 </p>
@@ -1114,7 +1114,7 @@ Project Manager Assignment                                            <strong></
     <img
         width="558"
         height="281"
-        src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg"
+        src="http://i65.tinypic.com/1zp4gly.png"
     />
 </p>
 <p>
@@ -1492,7 +1492,7 @@ display forwarded reports                                        <strong></stron
     <img
         width="536"
         height="500"
-        src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image009.png"
+        src="http://i68.tinypic.com/6zyjgx.png"
     />
 </p>
 <p>
@@ -1783,7 +1783,7 @@ number, of user will be displayed.                                        <stron
     <img
         width="604"
         height="447"
-        src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png"
+        src="http://i68.tinypic.com/1zqys9j.png"
     />
 </p>
 <p>
@@ -3186,7 +3186,7 @@ Select member’s reward                                            <strong></st
     <img
         width="602"
         height="539"
-        src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg"
+        src="http://i65.tinypic.com/10i5635.png"
     />
 </p>
 <p>
@@ -3568,7 +3568,7 @@ Select member’s reward                                            <strong></st
         <img
             width="391"
             height="143"
-            src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image013.png"
+            src="http://i63.tinypic.com/2zstbg6.png"
         />
     </strong>
     <strong></strong>
@@ -3590,7 +3590,7 @@ Select member’s reward                                            <strong></st
         <img
             width="418"
             height="128"
-            src="file:///C:/Users/satag/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png"
+            src="http://i64.tinypic.com/8zh4qw.png"
         />
     </strong>
     <strong></strong>
