@@ -1,69 +1,77 @@
+<p align="center">
+	<a name="_Hlk482179127"></a>
+	<strong>CANKAYA UNIVERSITY</strong>
+</p>
+<p align="center">
+	<strong>FACULTY OF ENGINEERING</strong>
+</p>
+<p align="center">
+	<strong>COMPUTER ENGINEERING DEPARTMENT</strong>
+</p>
+<p>
+	<strong> </strong>
+</p>
+<p align="center">
+	<strong>
+		<img
+			width="146"
+			height="145"
+			src="http://i63.tinypic.com/1079pit.png"
+		/>
+	</strong>
+	<strong></strong>
+</p>
+<p align="center">
+	<strong> </strong>
+</p>
+<p align="center">
+	<strong>
+		CENG 408
+		<br/>
+	</strong>
+	<strong>Innovative System Design and Development II</strong>
+	<strong></strong>
+</p>
+<p>
+	<strong> </strong>
+</p>
+<p align="center">
+	<strong>
+		TEST PLAN FOR PROJECT MANAGEMENT ASISTANT
+		<br/>
+		Version 1
+	</strong>
+</p>
+<p align="center">
+	<strong><em> </em></strong>
+</p>
+<p align="center">
+	<strong><em>Hakan &#304;REN 201411211</em></strong>
+</p>
+<p align="center">
+	<strong><em>Sel&#231;uk ATAG&#220;N 201411204 </em></strong>
+</p>
+<p align="center">
+	<strong><em> </em></strong>
+</p>
+<p align="center">
+	<strong><em>Advisor: Prof. Dr. Erdo&#287;an DO&#286;DU </em></strong>
+</p>
+<p align="center">
+	<strong> </strong>
+</p>
+<p align="center">
+	<strong> </strong>
+</p>
+<p align="center">
+	<strong> </strong>
+</p>
+<p align="center">
+	<strong>Word Count: 1201</strong>
+</p>
+
 <div>
     <p align="center">
-        <strong>CANKAYA UNIVERSITY</strong>
-    </p>
-    <p align="center">
-        <strong>FACULTY OF ENGINEERING</strong>
-    </p>
-    <p align="center">
-        <strong>COMPUTER ENGINEERING DEPARTMENT</strong>
-    </p>
-    <p>
-        <strong> </strong>
-    </p>
-    <p align="center">
-        <strong> </strong>
-    </p>
-    <p align="center">
-        <strong> </strong>
-    </p>
-    <p align="center">
-        <strong> </strong>
-    </p>
-    <p align="center">
-        <strong> </strong>
-    </p>
-    <p align="center">
-        <strong>
-            CENG 408
-            <br/>
-            Innovative System Design and Development I
-        </strong>
-        <strong></strong>
-    </p>
-    <p>
-        <strong> </strong>
-    </p>
-    <p align="center">
-        <strong>
-            TEST PLAN FOR PROJECT MANAGEMENT ASISTANT
-            <br/>
-            Version 1
-        </strong>
-    </p>
-    <p align="center">
-        <strong><em> </em></strong>
-    </p>
-    <p align="center">
-        <strong><em>Hakan İREN 201411211</em></strong>
-    </p>
-    <p align="center">
-        <strong><em>Selçuk ATAGÜN 201411204 </em></strong>
-    </p>
-    <p align="center">
-        <strong><em> </em></strong>
-    </p>
-    <p align="center">
-        <strong><em>Advisor: Prof. Dr. Erdoğan DOĞDU </em></strong>
-    </p>
-    <p align="center">
-        <strong> </strong>
-    </p>
-    <p align="center">
-        <strong> </strong>
-    </p>
-    <p align="center">
-        <a name="_Hlk482179127"></a>
         Table of Contents
     </p>
     <p>
