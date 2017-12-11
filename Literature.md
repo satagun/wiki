@@ -12,18 +12,21 @@
     <strong> </strong>
 </p>
 <p align="center">
-    <strong> </strong>
+    <strong>
+        <img
+            width="146"
+            height="145"
+            src="http://i63.tinypic.com/1079pit.png"
+        />
+    </strong>
     <strong></strong>
 </p>
 <p align="center">
-    <strong> </strong>
+    <strong>Innovative System Design and Development I</strong>
+    <strong></strong>
 </p>
 <p align="center">
-    <strong>
-        CENG 408
-        <br/>
-        Innovative System Design and Development I
-    </strong>
+    <strong>CENG 408</strong>
 </p>
 <p align="center">
     <strong> </strong>
@@ -32,8 +35,11 @@
     <strong>
         A LITERATURE SEARCH FOR PROJECT MANAGEMENT ASISTANT
         <br/>
-        Version 1.0
+        Version 4
     </strong>
+</p>
+<p align="center">
+    <strong> </strong>
 </p>
 <p align="center">
     <strong><em> </em></strong>
@@ -67,98 +73,98 @@
 </p>
 <p>
     <a
-        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG407-Literature%20Research_v3.docx#_Toc482178659"
+        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG408-Literature%20Research_v4.docx#_Toc482178659"
     >
         Abstract 3
     </a>
 </p>
 <p>
     <a
-        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG407-Literature%20Research_v3.docx#_Toc482178660"
+        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG408-Literature%20Research_v4.docx#_Toc482178660"
     >
         1. What is a Project Management System ?. 4
     </a>
 </p>
 <p>
     <a
-        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG407-Literature%20Research_v3.docx#_Toc482178661"
+        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG408-Literature%20Research_v4.docx#_Toc482178661"
     >
         1.1 Key Features of the Project Management Assistant 4
     </a>
 </p>
 <p>
     <a
-        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG407-Literature%20Research_v3.docx#_Toc482178662"
+        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG408-Literature%20Research_v4.docx#_Toc482178662"
     >
         1.1.1 Project Start 4
     </a>
 </p>
 <p>
     <a
-        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG407-Literature%20Research_v3.docx#_Toc482178663"
+        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG408-Literature%20Research_v4.docx#_Toc482178663"
     >
         1.1.2 Planning of the project 4
     </a>
 </p>
 <p>
     <a
-        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG407-Literature%20Research_v3.docx#_Toc482178664"
+        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG408-Literature%20Research_v4.docx#_Toc482178664"
     >
         1.1.3 Project follow-up and control 4
     </a>
 </p>
 <p>
     <a
-        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG407-Literature%20Research_v3.docx#_Toc482178665"
+        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG408-Literature%20Research_v4.docx#_Toc482178665"
     >
         1.1.4 Completion of the project 4
     </a>
 </p>
 <p>
     <a
-        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG407-Literature%20Research_v3.docx#_Toc482178666"
+        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG408-Literature%20Research_v4.docx#_Toc482178666"
     >
         1.2 PMA Benefits. 5
     </a>
 </p>
 <p>
     <a
-        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG407-Literature%20Research_v3.docx#_Toc482178667"
+        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG408-Literature%20Research_v4.docx#_Toc482178667"
     >
         2. General System Architecture. 5
     </a>
 </p>
 <p>
     <a
-        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG407-Literature%20Research_v3.docx#_Toc482178668"
+        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG408-Literature%20Research_v4.docx#_Toc482178668"
     >
         3. Module Dependencies. 7
     </a>
 </p>
 <p>
     <a
-        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG407-Literature%20Research_v3.docx#_Toc482178669"
+        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG408-Literature%20Research_v4.docx#_Toc482178669"
     >
         4. Related Application. 7
     </a>
 </p>
 <p>
     <a
-        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG407-Literature%20Research_v3.docx#_Toc482178670"
+        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG408-Literature%20Research_v4.docx#_Toc482178670"
     >
         5. System Overview.. 10
     </a>
 </p>
 <p>
     <a
-        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG407-Literature%20Research_v3.docx#_Toc482178671"
+        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG408-Literature%20Research_v4.docx#_Toc482178671"
     >
         Conclusion. 11
     </a>
 </p>
 <p>
     <a
-        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG407-Literature%20Research_v3.docx#_Toc482178672"
+        href="file:///C:/Users/satag/Desktop/408%20Project/Litarature/CENG408-Literature%20Research_v4.docx#_Toc482178672"
     >
         References. 12
     </a>
@@ -252,9 +258,11 @@
 <p>
     · It offers objective tracking.
 </p>
-<p>
-    · Reducing paperwork
-</p>
+<ul>
+    <li>
+        Reducing paperwork
+    </li>
+</ul>
 <p>
     · It makes anyone a quick study.
 </p>
@@ -271,15 +279,19 @@
 <p>
     · Convenience in access control
 </p>
-<p>
-    · Single and multi-user
-</p>
+<ul>
+    <li>
+        Single and multi-user
+    </li>
+</ul>
 <p>
     · One version and software to be maintained
 </p>
-<p>
-    · Central data warehouse
-</p>
+<ul>
+    <li>
+        Central data warehouse
+    </li>
+</ul>
 <p>
     · Project information cannot be accessed when the user (or server) is
     offline.[3]
@@ -288,6 +300,11 @@
     <a name="_Toc482178667">2. General System Architecture</a>
 </h1>
 <p align="center">
+    <img
+        width="605"
+        height="330"
+        src="http://i68.tinypic.com/kcb30m.png"
+    />
     <strong>Figure-1: </strong>
     System Architecture
 </p>
@@ -296,7 +313,13 @@
     <a name="_Toc482178668">3. Module Dependencies</a>
 </h1>
 <p align="center">
-    <strong> </strong>
+    <strong>
+        <img
+            width="605"
+            height="356"
+            src="http://i63.tinypic.com/ka343q.png"
+        />
+    </strong>
     <br/>
     <strong>Figure-2: </strong>
     Module Dependencies
@@ -378,10 +401,31 @@
                 </p>
             </td>
             <td width="151" valign="top">
+                <p align="center">
+                    <img
+                        width="38"
+                        height="38"
+                        src="http://i64.tinypic.com/3452160.jpg"
+                    />
+                </p>
             </td>
             <td width="151" valign="top">
+                <p align="center">
+                    <img
+                        width="38"
+                        height="38"
+                        src="http://i64.tinypic.com/3452160.jpg"
+                    />
+                </p>
             </td>
             <td width="151" valign="top">
+                <p align="center">
+                    <img
+                        width="38"
+                        height="38"
+                        src="http://i64.tinypic.com/3452160.jpg"
+                    />
+                </p>
             </td>
         </tr>
         <tr>
@@ -391,10 +435,31 @@
                 </p>
             </td>
             <td width="151" valign="top">
+                <p align="center">
+                    <img
+                        width="38"
+                        height="38"
+                        src="http://i64.tinypic.com/3452160.jpg"
+                    />
+                </p>
             </td>
             <td width="151" valign="top">
+                <p align="center">
+                    <img
+                        width="38"
+                        height="38"
+                        src="http://i64.tinypic.com/3452160.jpg"
+                    />
+                </p>
             </td>
             <td width="151" valign="top">
+                <p align="center">
+                    <img
+                        width="38"
+                        height="38"
+                        src="http://i64.tinypic.com/3452160.jpg"
+                    />
+                </p>
             </td>
         </tr>
         <tr>
@@ -404,10 +469,31 @@
                 </p>
             </td>
             <td width="151" valign="top">
+                <p align="center">
+                    <img
+                        width="37"
+                        height="33"
+                        src="http://i65.tinypic.com/2eg8y0y.jpg"
+                    />
+                </p>
             </td>
             <td width="151" valign="top">
+                <p align="center">
+                    <img
+                        width="37"
+                        height="33"
+                        src="http://i65.tinypic.com/2eg8y0y.jpg"
+                    />
+                </p>
             </td>
             <td width="151" valign="top">
+                <p align="center">
+                    <img
+                        width="38"
+                        height="38"
+                        src="http://i64.tinypic.com/3452160.jpg"
+                    />
+                </p>
             </td>
         </tr>
         <tr>
@@ -417,10 +503,31 @@
                 </p>
             </td>
             <td width="151" valign="top">
+                <p align="center">
+                    <img
+                        width="37"
+                        height="33"
+                        src="http://i65.tinypic.com/2eg8y0y.jpg"
+                    />
+                </p>
             </td>
             <td width="151" valign="top">
+                <p align="center">
+                    <img
+                        width="38"
+                        height="38"
+                        src="http://i64.tinypic.com/3452160.jpg"
+                    />
+                </p>
             </td>
             <td width="151" valign="top">
+                <p align="center">
+                    <img
+                        width="38"
+                        height="38"
+                        src="http://i64.tinypic.com/3452160.jpg"
+                    />
+                </p>
             </td>
         </tr>
         <tr>
@@ -430,10 +537,31 @@
                 </p>
             </td>
             <td width="151" valign="top">
+                <p align="center">
+                    <img
+                        width="38"
+                        height="38"
+                        src="http://i64.tinypic.com/3452160.jpg"
+                    />
+                </p>
             </td>
             <td width="151" valign="top">
+                <p align="center">
+                    <img
+                        width="37"
+                        height="33"
+                        src="http://i65.tinypic.com/2eg8y0y.jpg"
+                    />
+                </p>
             </td>
             <td width="151" valign="top">
+                <p align="center">
+                    <img
+                        width="38"
+                        height="38"
+                        src="http://i64.tinypic.com/3452160.jpg"
+                    />
+                </p>
             </td>
         </tr>
         <tr>
@@ -443,10 +571,31 @@
                 </p>
             </td>
             <td width="151" valign="top">
+                <p align="center">
+                    <img
+                        width="38"
+                        height="38"
+                        src="http://i64.tinypic.com/3452160.jpg"
+                    />
+                </p>
             </td>
             <td width="151" valign="top">
+                <p align="center">
+                    <img
+                        width="38"
+                        height="38"
+                        src="http://i64.tinypic.com/3452160.jpg"
+                    />
+                </p>
             </td>
             <td width="151" valign="top">
+                <p align="center">
+                    <img
+                        width="38"
+                        height="38"
+                        src="http://i64.tinypic.com/3452160.jpg"
+                    />
+                </p>
             </td>
         </tr>
         <tr>
@@ -468,6 +617,11 @@
     <a name="_Toc482178670">5. System Overview</a>
 </h1>
 <p align="center">
+    <img
+        width="605"
+        height="422"
+        src="http://i65.tinypic.com/rk7tj8.jpg"
+    />
     <strong>Figure-3: </strong>
     How does project management assistant?
 </p>
@@ -492,26 +646,32 @@
         </tr>
         <tr>
             <td width="184" valign="top">
-                <p>
-                    · Project Creation
-                </p>
-                <p>
-                    · User Creation
-                </p>
-                <p>
-                    · Assign project manager
-                </p>
+                <ul>
+                    <li>
+                        Project Creation
+                    </li>
+                    <li>
+                        User Creation
+                    </li>
+                    <li>
+                        Assign project manager
+                    </li>
+                </ul>
             </td>
             <td width="229" valign="top">
-                <p>
-                    · Entering risks
-                </p>
+                <ul>
+                    <li>
+                        Entering risks
+                    </li>
+                </ul>
                 <p>
                     · Reject or approve new risk
                 </p>
-                <p>
-                    · Reporting risk
-                </p>
+                <ul>
+                    <li>
+                        Reporting risk
+                    </li>
+                </ul>
                 <p>
                     · Update personal information
                 </p>
@@ -521,26 +681,32 @@
                 <p>
                     · Updating cost and report
                 </p>
-                <p>
-                    · Changing password.
-                </p>
+                <ul>
+                    <li>
+                        Changing password.
+                    </li>
+                </ul>
             </td>
             <td width="195" valign="top">
                 <p>
                     · Report Creation &amp; Forwarding
                 </p>
-                <p>
-                    · Enter new risk
-                </p>
-                <p>
-                    · Update cost information
-                </p>
+                <ul>
+                    <li>
+                        Enter new risk
+                    </li>
+                    <li>
+                        Update cost information
+                    </li>
+                </ul>
                 <p>
                     · Update personal information.
                 </p>
-                <p>
-                    · Change password
-                </p>
+                <ul>
+                    <li>
+                        Change password
+                    </li>
+                </ul>
             </td>
         </tr>
     </tbody>
@@ -594,4 +760,7 @@
 <p>
     [4] “Mirosław J Skibniewski”, “Pollaphat Nitithamyong”, “Automation in
     Construction”, (27 February 2004), [07.05.2017] <strong></strong>
+</p>
+<p align="center">
+    <strong> </strong>
 </p>
